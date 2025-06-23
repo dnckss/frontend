@@ -15,13 +15,13 @@ const HomePage: React.FC = () => {
       id: 1,
       name: '노트북',
       price: 1200000,
-      description: '고성능 게이밍 노트북'
+      description: '게이밍 노트북'
     },
     {
       id: 2,
       name: '마우스',
       price: 50000,
-      description: '무선 게이밍 마우스'
+      description: '게이밍 마우스'
     }
   ];
 
